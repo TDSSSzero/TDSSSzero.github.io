@@ -6,8 +6,7 @@ header:
 categories:
   - blog
 tags:
-  # - Jekyll
-  # - update
+  - Jekyll
 ---
 
 2024 ChiliChill 成都场，横幅口号绝赞征集中！

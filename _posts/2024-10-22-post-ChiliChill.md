@@ -1,10 +1,9 @@
 ---
 title: "2024 Chengdu ChiliChill Watchword"
-date: 2024-10-22T15:34:45-04:00
 categories:
   - Blog
 tags:
-  - Jekyll
+  - ChiliChill
 ---
 
 ChiliChill

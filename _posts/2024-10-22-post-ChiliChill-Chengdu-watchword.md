@@ -19,7 +19,7 @@ tags:
 <script>
   document.addEventListener('DOMContentLoaded', function() {
       // 使用 fetch 读取 CSV 文件
-      fetch('/_data/data.csv')  // 确保路径正确
+      fetch('/assets/csv/chilichill_chengdu.csv')  // 确保路径正确
           .then(response => {
               if (!response.ok) {
                   throw new Error('Network response was not ok');

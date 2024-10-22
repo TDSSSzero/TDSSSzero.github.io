@@ -1,9 +1,6 @@
 ---
 title: "2024 Chengdu ChiliChill Watchword"
 date: 2024-10-22T15:34:45-04:00
-header:
-  image: /assets/images/chilichill.png
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 categories:
   - Blog
 tags:

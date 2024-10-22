@@ -1,6 +1,6 @@
 window.addEventListener('DOMContentLoaded', (event) => {
     // 使用 fetch 立即从 GitHub Pages 读取 CSV 文件
-    fetch('https://github.com/TDSSSzero/TDSSSzero.github.io/chilichill_chengdu.csv')  // 替换为你自己的 CSV 文件 URL
+    fetch('https://tdssszero.github.io//chilichill_chengdu.csv')  // 替换为你自己的 CSV 文件 URL
         .then(response => response.text())
         .then(data => {
             Papa.parse(data, {

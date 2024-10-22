@@ -3,6 +3,7 @@ title: "2024 成都ChiliChill 口号征集"
 date: 2024-10-22T15:34:45-04:00
 header:
   image: /assets/images/chilichill.png
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 categories:
   - Blog
 tags:

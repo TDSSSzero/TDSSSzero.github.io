@@ -4,7 +4,7 @@ date: 2024-10-22T15:34:45-04:00
 header:
   image: /assets/images/chilichill.png
 categories:
-  - blog
+  - Blog
 tags:
   - Jekyll
 ---

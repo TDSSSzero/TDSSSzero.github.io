@@ -4,10 +4,9 @@ date: 2024-10-22T15:34:30-04:00
 header:
   image: /assets/images/chilichill.png
 categories:
-  - blog
+  - Blog
 tags:
-  # - Jekyll
-  # - update
+  - Jekyll
 ---
 
 2024 ChiliChill 成都场，横幅口号绝赞征集中！
